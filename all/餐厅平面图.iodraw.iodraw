@@ -124,9 +124,6 @@
         <mxCell id="Wvwu103do1yeHWD9G2q6-4" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="140" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wvwu103do1yeHWD9G2q6-5" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="210" width="10" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
