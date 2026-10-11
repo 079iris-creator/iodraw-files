@@ -121,9 +121,6 @@
         <mxCell id="qDrk5NTSgsBQJxSpT5Wf-473" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="500" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Wvwu103do1yeHWD9G2q6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="155" width="10" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
