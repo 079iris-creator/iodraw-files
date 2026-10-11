@@ -299,10 +299,10 @@
           <mxGeometry x="1350" y="330" width="70" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Wvwu103do1yeHWD9G2q6-162" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="560" width="260" height="60" as="geometry" />
+          <mxGeometry x="1160" y="330" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wvwu103do1yeHWD9G2q6-163" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="420" width="70" height="50" as="geometry" />
+          <mxGeometry x="1100" y="565" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
