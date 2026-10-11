@@ -214,8 +214,8 @@
         <mxCell id="Wvwu103do1yeHWD9G2q6-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="840" y="300" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wvwu103do1yeHWD9G2q6-49" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="470" width="10" height="160" as="geometry" />
+        <mxCell id="Wvwu103do1yeHWD9G2q6-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
