@@ -22,14 +22,11 @@
         <mxCell id="qDrk5NTSgsBQJxSpT5Wf-429" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="870" y="40" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qDrk5NTSgsBQJxSpT5Wf-432" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="240" width="100" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="qDrk5NTSgsBQJxSpT5Wf-433" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="40" width="370" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qDrk5NTSgsBQJxSpT5Wf-436" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="240" width="140" height="10" as="geometry" />
+          <mxGeometry x="1000" y="240" width="300" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qDrk5NTSgsBQJxSpT5Wf-437" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="60" width="19" height="180" as="geometry" />
